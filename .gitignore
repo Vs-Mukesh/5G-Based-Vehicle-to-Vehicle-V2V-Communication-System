@@ -1,1 +1,4 @@
-
+*.pem
+__pycache__/
+*.pyc
+sec_iforest.pkl
